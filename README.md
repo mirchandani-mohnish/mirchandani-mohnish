@@ -1,7 +1,7 @@
 ### Heya! 👋
 ---
 
-[Profile Image](./img.jpg?raw=true)
+![Profile Image](./code_background.jpg?raw=true)
 
 
 You have stumbled upon the repository of **Mohnish Mirchandani** a computer science developer and enthusiast currently studying in **Ahmedabad University**.
