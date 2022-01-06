@@ -64,7 +64,7 @@ I would love to collaborate on any projects relating to **Web** and **App develo
 
 ## Veiw my work...
 <a href="https://github.com/mirchandani-mohnish"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/mirchandanimohnish03/articles"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
 
 ---
