@@ -76,16 +76,18 @@ I would love to collaborate on any projects relating to **Web** and **App develo
 ## My Github Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirchandani-mohnish&margin-w=5&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirchandani-mohnish&theme=github_dark" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mirchandani-mohnish&hide_border=true&count_private=true&show_icons=true&theme=radical"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mirchandani-mohnish&margin-w=5&theme=radical" width="700"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirchandani-mohnish&theme=github_dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mirchandani-mohnish&hide_border=true&count_private=true&show_icons=true&theme=radical" width="700"/>
 </p>
+
+
 
 
 
