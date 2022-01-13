@@ -2,8 +2,10 @@
 ---
 
 You have stumbled upon the repository of **Mohnish Mirchandani**, a computer science developer and enthusiast currently studying in **Ahmedabad University**.
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Introduction GIF"/>
+</p>
 
-![Profile Image](./code_background.jpg?raw=true)
 
 
 I am a committee member of **The Programming Club, Ahmedabad University**
@@ -42,6 +44,8 @@ I would love to collaborate on any projects relating to **Web** and **App develo
  
 
 </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mirchandani-mohnish&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" align="right" />
+
 
 ## Technologies I have worked with...(atleast once)
 
@@ -64,10 +68,26 @@ I would love to collaborate on any projects relating to **Web** and **App develo
 
 ## Veiw my work...
 <a href="https://github.com/mirchandani-mohnish"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/mirchandanimohnish03/articles"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
 
----
+
+
+## My Github Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mirchandani-mohnish&margin-w=5&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mirchandani-mohnish&hide_border=true&count_private=true&show_icons=true&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mirchandani-mohnish&theme=github_dark"/>
+</p>
+
+
 
 
 
