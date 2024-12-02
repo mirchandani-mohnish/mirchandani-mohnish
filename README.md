@@ -1,16 +1,17 @@
 ## Heya! 👋
 ---
 
-You have stumbled upon the repository of **Mohnish Mirchandani**, a computer science developer and enthusiast currently studying in **Ahmedabad University**.
+You have stumbled upon the repository of **Mohnish Mirchandani**, a computer science developer and enthusiast currently studying at **Concordia University**.
 <p align="center">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Introduction GIF"/>
 </p>
 
 
 Hey, 
-I am **Mohnish Mirchandani**, a computer science developer and enthusiast currently studying at *Ahmedabad University*.
-I am highly interested in **full stack development** and **problem solving**. 
-I am profecient in **C++**,**Javascript** and **Python** and have worked extensively with various frameworks such as *React*, *Node* and *Express*.
+I am **Mohnish Mirchandani**, a computer science developer and enthusiast currently studying at *Concordia University*. Although anything involving computers interests me, I am highly interested in **System Design**, **Machine Learning**, and **Software Development**. I am proficient in **C++**,**Javascript** and **Python** and have worked extensively with various frameworks across my studies and work.
+
+I am open to collaboration and always looking forward to contributing to an interesting project. 
+
 To know more about me you can check out my [Linkedin Profile](https://www.linkedin.com/in/mohnishmirchandani/).
 
 ## <h2>🛠️ Technical Skill Set</h2>
